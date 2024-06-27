@@ -1,0 +1,14 @@
+.myDiv{
+    width: 25rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.liste{
+    display:flex;
+
+}
+li{
+    list-style-type: none;
+    padding: 5px;
+}
